@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "target": "es6"
+    }
+}
+
+//자동 import 기능임
